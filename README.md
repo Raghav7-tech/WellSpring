@@ -1,4 +1,4 @@
-# Wellspring Android app
+# WellSpring Android app
 
 Wellspring is an Expo + React Native app for monitoring campus drinking-water quality. It includes a site overview, per-parameter history charts, a mock water assistant, and recent alerts.
 
