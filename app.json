@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Wellspring",
+    "slug": "wellspring-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "package": "com.raghav7tech.wellspring",
+      "adaptiveIcon": {
+        "backgroundColor": "#0E7C74"
+      }
+    },
+    "plugins": ["expo-font"]
+  }
+}
+

@@ -1,0 +1,17 @@
+node_modules/
+.expo/
+.expo-shared/
+dist/
+web-build/
+*.log
+.env
+.env.local
+.env.*.local
+android/app/build/
+ios/Pods/
+.DS_Store
+desktop.ini
+*.keystore
+*.jks
+coverage/
+
